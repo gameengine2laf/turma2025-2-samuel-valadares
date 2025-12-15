@@ -2714,3 +2714,246 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.15-05.12.25:000][833]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2489.379150
 [2025.12.15-05.12.26:002][836]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.15-05.12.26:002][836]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2490.045898, Update Interval: 348.465820
+[2025.12.15-05.16.08:770][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.12.15-05.16.08:772][504]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.023
+[2025.12.15-05.16.08:772][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequin_UE4/Strafing_PhysicsAsset] ([1] browsable assets)...
+[2025.12.15-05.16.09:446][504]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/Mannequin_UE4/Strafing_PhysicsAsset.Strafing_PhysicsAsset]
+[2025.12.15-05.16.09:446][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Strafing_PhysicsAsset]
+[2025.12.15-05.16.09:452][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequin_UE4/Strafing_PhysicsAsset_Auto2
+[2025.12.15-05.16.09:452][504]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Strafing_PhysicsAsset_Auto2FB9DA97040D19CE05C8E98AFD92251DA.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Autosaves/Game/Characters/Mannequin_UE4/Strafing_PhysicsAsset_Auto2.uasset'
+[2025.12.15-05.16.09:454][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequin_UE4/Strafing] ([1] browsable assets)...
+[2025.12.15-05.16.09:464][504]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/Mannequin_UE4/Strafing.Strafing]
+[2025.12.15-05.16.09:465][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Strafing]
+[2025.12.15-05.16.09:533][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequin_UE4/Strafing_Auto2
+[2025.12.15-05.16.09:533][504]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Strafing_Auto2A51E59A94427D93474BC86B07171843B.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Autosaves/Game/Characters/Mannequin_UE4/Strafing_Auto2.uasset'
+[2025.12.15-05.16.09:534][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequin_UE4/Strafing_Anim] ([1] browsable assets)...
+[2025.12.15-05.16.09:543][504]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequin_UE4/Strafing_Anim.Strafing_Anim]
+[2025.12.15-05.16.09:543][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Strafing_Anim]
+[2025.12.15-05.16.09:551][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequin_UE4/Strafing_Anim_Auto2
+[2025.12.15-05.16.09:551][504]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Strafing_Anim_Auto2A3C3E65B4DF564DE2B39338EF644D01D.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Autosaves/Game/Characters/Mannequin_UE4/Strafing_Anim_Auto2.uasset'
+[2025.12.15-05.16.09:552][504]LogFileHelpers: Auto-saving content packages took 0.781
+[2025.12.15-05.16.15:498][619]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-05.16.15:584][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.12.15-05.16.15:606][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.12.15-05.16.15:625][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.12.15-05.16.15:635][619]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.520 ms (total: 1.14 sec)
+[2025.12.15-05.16.17:672][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.12.15-05.16.19:112][736]LogSlate: Window 'Salvar conteúdo' being destroyed
+[2025.12.15-05.16.19:126][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-05.16.19:180][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Ch15_1001_Diffuse] ([1] browsable assets)...
+[2025.12.15-05.16.19:180][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Ch15_1001_Diffuse]
+[2025.12.15-05.16.19:384][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Ch15_1001_Diffuse
+[2025.12.15-05.16.19:384][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Ch15_1001_Diffuse1AA0524643866363E2882B8DE0ABA8F8.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Ch15_1001_Diffuse.uasset'
+[2025.12.15-05.16.19:390][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Ch15_1001_Glossiness] ([1] browsable assets)...
+[2025.12.15-05.16.19:390][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Ch15_1001_Glossiness]
+[2025.12.15-05.16.19:444][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Ch15_1001_Glossiness
+[2025.12.15-05.16.19:446][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Ch15_1001_Glossiness75AA77314FC2DFAD19D882B878F23F46.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Ch15_1001_Glossiness.uasset'
+[2025.12.15-05.16.19:449][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Ch15_1001_Normal] ([1] browsable assets)...
+[2025.12.15-05.16.19:449][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Ch15_1001_Normal]
+[2025.12.15-05.16.19:714][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Ch15_1001_Normal
+[2025.12.15-05.16.19:714][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Ch15_1001_Normal0E3155A242A778990078D389D06799DF.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Ch15_1001_Normal.uasset'
+[2025.12.15-05.16.19:719][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Ch15_1001_Specular] ([1] browsable assets)...
+[2025.12.15-05.16.19:719][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Ch15_1001_Specular]
+[2025.12.15-05.16.19:799][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Ch15_1001_Specular
+[2025.12.15-05.16.19:799][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Ch15_1001_SpecularE521F48042A77190AB5B3DB56CBB009B.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Ch15_1001_Specular.uasset'
+[2025.12.15-05.16.19:807][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Ch15_1002_Diffuse] ([1] browsable assets)...
+[2025.12.15-05.16.19:807][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Ch15_1002_Diffuse]
+[2025.12.15-05.16.19:977][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Ch15_1002_Diffuse
+[2025.12.15-05.16.19:978][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Ch15_1002_DiffuseF51E6D8448313FC033915BA0EEAD0A15.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Ch15_1002_Diffuse.uasset'
+[2025.12.15-05.16.19:979][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Ch15_1002_Emissive] ([1] browsable assets)...
+[2025.12.15-05.16.19:979][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Ch15_1002_Emissive]
+[2025.12.15-05.16.20:070][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Ch15_1002_Emissive
+[2025.12.15-05.16.20:070][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Ch15_1002_Emissive15AEDAF8456F9CF0526CCDA18608E33E.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Ch15_1002_Emissive.uasset'
+[2025.12.15-05.16.20:072][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Ch15_1002_Glossiness] ([1] browsable assets)...
+[2025.12.15-05.16.20:072][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Ch15_1002_Glossiness]
+[2025.12.15-05.16.20:123][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Ch15_1002_Glossiness
+[2025.12.15-05.16.20:123][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Ch15_1002_Glossiness744659A74FE0621D341FB99099C46790.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Ch15_1002_Glossiness.uasset'
+[2025.12.15-05.16.20:124][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Ch15_1002_Normal] ([1] browsable assets)...
+[2025.12.15-05.16.20:124][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Ch15_1002_Normal]
+[2025.12.15-05.16.20:380][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Ch15_1002_Normal
+[2025.12.15-05.16.20:380][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Ch15_1002_Normal89C281C34CD6810323B00FB8118D1913.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Ch15_1002_Normal.uasset'
+[2025.12.15-05.16.20:381][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Ch15_1002_Specular] ([1] browsable assets)...
+[2025.12.15-05.16.20:381][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Ch15_1002_Specular]
+[2025.12.15-05.16.20:506][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Ch15_1002_Specular
+[2025.12.15-05.16.20:506][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Ch15_1002_Specular6D9C0AC5449E9B0F43BFCFBF79637B7F.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Ch15_1002_Specular.uasset'
+[2025.12.15-05.16.20:507][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Ch15_body] ([1] browsable assets)...
+[2025.12.15-05.16.20:507][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Ch15_body]
+[2025.12.15-05.16.20:512][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Ch15_body
+[2025.12.15-05.16.20:512][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Ch15_body25A098A24C722BDC5DC4039C725EA160.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Ch15_body.uasset'
+[2025.12.15-05.16.20:518][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Ch15_body1] ([1] browsable assets)...
+[2025.12.15-05.16.20:518][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Ch15_body1]
+[2025.12.15-05.16.20:522][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Ch15_body1
+[2025.12.15-05.16.20:522][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Ch15_body1FECC712C429E7581C221DC8AB822BBF2.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Ch15_body1.uasset'
+[2025.12.15-05.16.20:523][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Pistol_Walk] ([1] browsable assets)...
+[2025.12.15-05.16.20:523][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Pistol_Walk]
+[2025.12.15-05.16.20:582][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Pistol_Walk
+[2025.12.15-05.16.20:582][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Pistol_Walk115D14EF4E51FB140E333D9BDA31E240.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Pistol_Walk.uasset'
+[2025.12.15-05.16.20:593][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Pistol_Walk_Anim] ([1] browsable assets)...
+[2025.12.15-05.16.20:593][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Pistol_Walk_Anim]
+[2025.12.15-05.16.20:600][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Pistol_Walk_Anim
+[2025.12.15-05.16.20:600][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Pistol_Walk_Anim85ECDC8346C3895975086EB6E1AA5E03.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Pistol_Walk_Anim.uasset'
+[2025.12.15-05.16.20:604][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Pistol_Walk_PhysicsAsset] ([1] browsable assets)...
+[2025.12.15-05.16.20:604][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Pistol_Walk_PhysicsAsset]
+[2025.12.15-05.16.20:608][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Pistol_Walk_PhysicsAsset
+[2025.12.15-05.16.20:608][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Pistol_Walk_PhysicsAssetD6E2E256410B84F5740E8CA87EA3F7F9.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Pistol_Walk_PhysicsAsset.uasset'
+[2025.12.15-05.16.20:611][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Start_Walking_Backwards] ([1] browsable assets)...
+[2025.12.15-05.16.20:611][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Start_Walking_Backwards]
+[2025.12.15-05.16.20:673][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Start_Walking_Backwards
+[2025.12.15-05.16.20:673][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Start_Walking_BackwardsD4BFC3484CA6F7060C87DEBF1D46F68D.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Start_Walking_Backwards.uasset'
+[2025.12.15-05.16.20:675][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Start_Walking_Backwards_Anim] ([1] browsable assets)...
+[2025.12.15-05.16.20:675][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Start_Walking_Backwards_Anim]
+[2025.12.15-05.16.20:685][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Start_Walking_Backwards_Anim
+[2025.12.15-05.16.20:685][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Start_Walking_Backwards_Anim49D5298F47DA72F2F9150AA798F9F8AF.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Start_Walking_Backwards_Anim.uasset'
+[2025.12.15-05.16.20:686][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Start_Walking_Backwards_PhysicsAsset] ([1] browsable assets)...
+[2025.12.15-05.16.20:686][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Start_Walking_Backwards_PhysicsAsset]
+[2025.12.15-05.16.20:690][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Start_Walking_Backwards_PhysicsAsset
+[2025.12.15-05.16.20:690][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Start_Walking_Backwards_PhysicsA5A5DBE534435EE6B28410A994B742AFD.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Start_Walking_Backwards_PhysicsAsset.uasset'
+[2025.12.15-05.16.20:692][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Start_Walking_Backwards_Skeleton] ([1] browsable assets)...
+[2025.12.15-05.16.20:692][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Start_Walking_Backwards_Skeleton]
+[2025.12.15-05.16.20:694][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Start_Walking_Backwards_Skeleton
+[2025.12.15-05.16.20:694][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Start_Walking_Backwards_SkeletonE2155CE4461F7A8B9426AA9321475E52.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Start_Walking_Backwards_Skeleton.uasset'
+[2025.12.15-05.16.20:696][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Strafing] ([1] browsable assets)...
+[2025.12.15-05.16.20:696][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Strafing]
+[2025.12.15-05.16.20:748][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Strafing
+[2025.12.15-05.16.20:748][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Strafing73A017CE48E3C9A5EF6BF48FDE43346D.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Strafing.uasset'
+[2025.12.15-05.16.20:749][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Strafing_Anim] ([1] browsable assets)...
+[2025.12.15-05.16.20:749][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Strafing_Anim]
+[2025.12.15-05.16.20:757][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Strafing_Anim
+[2025.12.15-05.16.20:757][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Strafing_Anim6000E08D4AAA5DA797F6A4AC1C1A1ED0.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Strafing_Anim.uasset'
+[2025.12.15-05.16.20:759][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Strafing_PhysicsAsset] ([1] browsable assets)...
+[2025.12.15-05.16.20:759][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Strafing_PhysicsAsset]
+[2025.12.15-05.16.20:763][736]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Strafing_PhysicsAsset
+[2025.12.15-05.16.20:763][736]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Saved/Strafing_PhysicsAsset54A2007D49B86A474FBF3BA267B060BD.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/turma2025-2-samuel-valadares/teste03_11/Content/Characters/Mannequin_UE4/Strafing_PhysicsAsset.uasset'
+[2025.12.15-05.16.20:773][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.64 sec (total: 2.78 sec)
+[2025.12.15-05.16.20:817][736]LogStall: Shutdown...
+[2025.12.15-05.16.20:817][736]LogStall: Shutdown complete.
+[2025.12.15-05.16.20:834][736]LogSlate: Window 'ThirdPersonMap' being destroyed
+[2025.12.15-05.16.20:876][736]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-05.16.20:876][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-05.16.20:928][736]LogSlate: Window 'teste03_11 — Unreal Editor' being destroyed
+[2025.12.15-05.16.20:929][736]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2025.12.15-05.16.21:271][736]LogContentValidation: Display: Starting to validate 21 assets
+[2025.12.15-05.16.21:271][736]LogContentValidation: Enabled validators:
+[2025.12.15-05.16.21:271][736]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-05.16.21:271][736]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-05.16.21:271][736]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-05.16.21:271][736]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-05.16.21:271][736]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-05.16.21:271][736]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-05.16.21:271][736]AssetCheck: /Game/Characters/Mannequin_UE4/Ch15_1001_Diffuse Validando ativo
+[2025.12.15-05.16.21:271][736]AssetCheck: /Game/Characters/Mannequin_UE4/Ch15_1001_Glossiness Validando ativo
+[2025.12.15-05.16.21:271][736]AssetCheck: /Game/Characters/Mannequin_UE4/Ch15_1001_Normal Validando ativo
+[2025.12.15-05.16.21:271][736]AssetCheck: /Game/Characters/Mannequin_UE4/Ch15_1001_Specular Validando ativo
+[2025.12.15-05.16.21:271][736]AssetCheck: /Game/Characters/Mannequin_UE4/Ch15_1002_Diffuse Validando ativo
+[2025.12.15-05.16.21:271][736]AssetCheck: /Game/Characters/Mannequin_UE4/Ch15_1002_Emissive Validando ativo
+[2025.12.15-05.16.21:271][736]AssetCheck: /Game/Characters/Mannequin_UE4/Ch15_1002_Glossiness Validando ativo
+[2025.12.15-05.16.21:271][736]AssetCheck: /Game/Characters/Mannequin_UE4/Ch15_1002_Normal Validando ativo
+[2025.12.15-05.16.21:271][736]AssetCheck: /Game/Characters/Mannequin_UE4/Ch15_1002_Specular Validando ativo
+[2025.12.15-05.16.21:271][736]AssetCheck: /Game/Characters/Mannequin_UE4/Ch15_body Validando ativo
+[2025.12.15-05.16.21:271][736]AssetCheck: /Game/Characters/Mannequin_UE4/Ch15_body1 Validando ativo
+[2025.12.15-05.16.21:271][736]AssetCheck: /Game/Characters/Mannequin_UE4/Pistol_Walk Validando ativo
+[2025.12.15-05.16.21:272][736]AssetCheck: /Game/Characters/Mannequin_UE4/Pistol_Walk_Anim Validando ativo
+[2025.12.15-05.16.21:272][736]AssetCheck: /Game/Characters/Mannequin_UE4/Pistol_Walk_PhysicsAsset Validando ativo
+[2025.12.15-05.16.21:272][736]AssetCheck: /Game/Characters/Mannequin_UE4/Start_Walking_Backwards Validando ativo
+[2025.12.15-05.16.21:272][736]AssetCheck: /Game/Characters/Mannequin_UE4/Start_Walking_Backwards_Anim Validando ativo
+[2025.12.15-05.16.21:272][736]AssetCheck: /Game/Characters/Mannequin_UE4/Start_Walking_Backwards_PhysicsAsset Validando ativo
+[2025.12.15-05.16.21:272][736]AssetCheck: /Game/Characters/Mannequin_UE4/Start_Walking_Backwards_Skeleton Validando ativo
+[2025.12.15-05.16.21:272][736]AssetCheck: /Game/Characters/Mannequin_UE4/Strafing Validando ativo
+[2025.12.15-05.16.21:272][736]AssetCheck: /Game/Characters/Mannequin_UE4/Strafing_Anim Validando ativo
+[2025.12.15-05.16.21:272][736]AssetCheck: /Game/Characters/Mannequin_UE4/Strafing_PhysicsAsset Validando ativo
+[2025.12.15-05.16.21:320][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.12.15-05.16.21:334][736]Cmd: QUIT_EDITOR
+[2025.12.15-05.16.21:334][736]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.15-05.16.21:353][737]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.15-05.16.21:354][737]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.15-05.16.21:354][737]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.15-05.16.21:366][737]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-05.16.21:366][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-05.16.21:366][737]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.12.15-05.16.21:394][737]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.15-05.16.21:406][737]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.15-05.16.21:421][737]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-05.16.21:421][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-05.16.21:426][737]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-05.16.21:426][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-05.16.21:430][737]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-05.16.21:430][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-05.16.21:434][737]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-05.16.21:434][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-05.16.21:437][737]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-05.16.21:437][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-05.16.21:440][737]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-05.16.21:440][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-05.16.21:446][737]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-05.16.21:446][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-05.16.21:449][737]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-05.16.21:449][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-05.16.21:453][737]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-05.16.21:453][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-05.16.21:457][737]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-05.16.21:457][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-05.16.21:461][737]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-05.16.21:461][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-05.16.21:464][737]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-05.16.21:464][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-05.16.21:467][737]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-05.16.21:467][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-05.16.21:480][737]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.12.15-05.16.21:487][737]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.12.15-05.16.21:487][737]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.12.15-05.16.21:488][737]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.12.15-05.16.22:116][737]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.12.15-05.16.22:116][737]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.12.15-05.16.22:116][737]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2025.12.15-05.16.22:116][737]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.12.15-05.16.22:117][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.12.15-05.16.22:124][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.12.15-05.16.22:139][737]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.12.15-05.16.22:139][737]LogAudio: Display: Audio Device Manager Shutdown
+[2025.12.15-05.16.22:152][737]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.12.15-05.16.22:153][737]LogExit: Preparing to exit.
+[2025.12.15-05.16.22:214][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.15-05.16.22:216][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:217][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:236][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:238][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:239][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:239][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:239][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:239][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:239][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:239][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:239][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:239][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:239][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:239][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:239][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:239][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:239][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:239][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:241][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:242][737]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.22:242][737]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.15-05.16.23:009][737]LogEditorDataStorage: Deinitializing
+[2025.12.15-05.16.23:464][737]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.12.15-05.16.23:606][737]LogExit: Editor shut down
+[2025.12.15-05.16.23:639][737]LogExit: Transaction tracking system shut down
+[2025.12.15-05.16.24:877][737]LogExit: Object subsystem successfully closed.
+[2025.12.15-05.16.24:960][737]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.12.15-05.16.25:939][737]LogMemoryProfiler: Shutdown
+[2025.12.15-05.16.25:940][737]LogNetworkingProfiler: Shutdown
+[2025.12.15-05.16.25:940][737]LoadingProfiler: Shutdown
+[2025.12.15-05.16.25:941][737]LogTimingProfiler: Shutdown
+[2025.12.15-05.16.26:997][737]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.12.15-05.16.26:999][737]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.12.15-05.16.26:999][737]LogNFORDenoise: NFORDenoise function shutting down
+[2025.12.15-05.16.27:004][737]RenderDocPlugin: plugin has been unloaded.
+[2025.12.15-05.16.27:048][737]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.12.15-05.16.27:048][737]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD3B5DBEA-4FC9-2D3F-058A-CBBC5F01812C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=322b025743c9dcec676b21985cf3a719%7C4345f8d9460341a89a927716f8347a0b%7C2ff140cb-63e5-4300-bdb5-cdc0dd51a850&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.12.15-05.16.27:607][737]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.12.15-05.16.27:633][737]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.12.15-05.16.27:633][737]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.12.15-05.16.27:633][737]LogPakFile: Destroying PakPlatformFile
+[2025.12.15-05.16.28:201][737]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.12.15-05.16.28:263][737]LogExit: Exiting.
+[2025.12.15-05.16.28:313][737]Log file closed, 12/15/25 02:16:28
